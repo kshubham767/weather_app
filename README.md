@@ -45,10 +45,10 @@ This project uses the following Flutter packages:
 - flutter_dotenv: A package for loading environment variables from a .env file in a Flutter project.
 
 ## Weather API
-The app uses the OpenWeatherMap API to fetch weather data. You'll need to replace the apiKey in the WeatherModel class with your own API key. Sign up for an API key at OpenWeatherMap.
+The app uses the OpenWeatherMap API to fetch weather data. You'll need to replace the apiKey in the WeatherModel class with your API key. Sign up for an API key at OpenWeatherMap.
 
 ## Contributing
-If you'd like to contribute to the development of the BMI Calculator app, feel free to:
+If you'd like to contribute to the development of the Weather App, feel free to:
 
 - Submit pull requests
 - Open issues on the GitHub repository
